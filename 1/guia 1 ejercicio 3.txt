@@ -1,0 +1,20 @@
+Algoritmo MCD
+/*El máximo común divisor de dos números enteros positivos es aquel número entero que 
+divide a los dos números y es el mayor de todos. Escriba un algoritmo que calcule el máximo 
+común divisor de dos números. Exprese en lenguaje natural el invariante del bucle.*/
+
+Variables
+   entero num1, num2
+
+inicio
+   Escribir num1
+   leer num1
+   Escribir num2
+   leer num2
+
+
+   [REVISAR Y TERMINAR]
+   
+fin
+
+"El máximo cumún divisor entre", num1, "y", num2, "es", resultado
