@@ -1,0 +1,16 @@
+Algoritmo Area_Triangulo
+/*Escriba el pseudocódigo de un algoritmo que lea la base y la altura de un triángulo y calcule 
+su área.*/
+
+Variables
+   flotante base, altura, area
+
+inicio
+   Escribir la base
+   leer base
+   Escribir la altura
+   leer altura 
+   area = (base * altura) / 2
+fin
+
+"El área del triángulo es", area

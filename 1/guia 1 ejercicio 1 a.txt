@@ -1,0 +1,15 @@
+Algoritmo Sumar
+/*Escriba el pseudocódigo de un algoritmo para: Sumar dos números enteros.*/
+
+Variables
+   entero numero1, numero2, suma
+
+inicio
+   Escribir el primer número 
+   leer numero1 
+   Escribir el segundo número
+   leer numero2 
+   suma = numero1 + numero2
+fin
+
+"El resultado de la suma es", suma

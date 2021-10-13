@@ -1,0 +1,15 @@
+Algoritmo Restar
+*/Escriba el pseudocódigo de un algoritmo para: Restar dos números enteros.*/
+
+Variables
+   entero numero1, numero2, resta
+
+inicio
+   Escribir el primer número 
+   leer numero1 
+   Escribir el segundo número
+   leer numero2 
+   resta = numero1 - numero2
+fin
+
+"El resultado de la resta es", resta

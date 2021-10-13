@@ -1,0 +1,15 @@
+Algoritmo Dividir
+/*Escriba el pseudocódigo de un algoritmo para: Dividir dos números enteros.*/
+
+Variables
+   entero numero1, numero2, divide
+
+inicio
+   Escribir el primer número 
+   leer numero1 
+   Escribir el segundo número
+   leer numero2 
+   divide = numero1 / numero2
+fin
+
+"El resultado de la división es", divide
