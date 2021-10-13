@@ -1,6 +1,12 @@
+/*
+Ejercicio 1 de Secuenciales
+Mazar, Vittorio T. T.
+
+Imprimir un cartel que diga “Hello world”.
+*/
+
 #include <stdio.h>
 int main() {
-   // Imprimir un cartel que diga “Hello world”.
    printf("Hello world");
    return 0;
 }
